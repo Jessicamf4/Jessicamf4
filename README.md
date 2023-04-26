@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Jéssica Marques!
 
-- 👀 I’m interested in programming and development
-- 🌱 I’m currently learning Python and React
+Atualmente estou aprendendo React e C#, além disso estou no 3º período de Ciência da Computação!
 
 <div> 
 
